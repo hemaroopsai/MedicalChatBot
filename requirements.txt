@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+ollama
+chromadb
+pdfplumber
+deep-translator
+audio-recorder-streamlit
+SpeechRecognition
+whisper
